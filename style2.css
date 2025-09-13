@@ -1,0 +1,133 @@
+.nav_a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    font-style: bold;
+}
+.header{
+    display: flex;
+    align-items: center;
+}
+.header_nav{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    font-weight: 500;
+    margin-left: 850px;
+    margin-top: 20px;
+}
+.header_nav2{
+        display: flex;
+    align-items: center;
+    gap: 40px;
+    font-weight: 500;
+    margin-left: 370px;
+    margin-top: 20px;
+}
+.navv{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-top: 15px;
+    margin-left: 340px;
+}
+.box{
+    background-color: #F3D7B7;
+    height: 800px;
+    width: 1550px;
+    position: relative;
+    bottom: 10px;
+    right: 10px;
+}
+.header_img{
+    margin-top: 23px;
+    margin-left: 30px;
+}
+.cards{
+    display: flex;
+    align-items: center;
+}
+.box_right{
+    background-color: red;
+    width: 300px;
+    margin-left: 460px;
+    position: relative;
+    bottom: 400px;
+}
+.box_left{
+    width: 330px;
+    margin-top: 150px;
+    margin-left: 30px;
+    height: 300px;
+}
+.right_img{
+    position: absolute;
+    z-index: 122;
+    top: 270px;
+    right: 180px;
+}
+.right_img1{
+    position: absolute;
+    top: 380px;
+    z-index: 1;
+}
+.box33{
+    background-color: #F3D7B7;
+    height: 120px;
+    width: 1550px;
+    position: relative;
+    bottom: 10px;
+    right: 10px;
+    display: flex;
+    align-items: center;
+}
+.footer_boxx{
+    background-color: #C99B67;
+    height: 510px;
+    width: 1550px;
+    position: relative;
+    right: 10px;
+    margin-top: 210px;
+}
+.img_box{
+    position: relative;
+    bottom: 120px;
+    left: 330px;
+}
+.footer_h1{
+    position: relative;
+    bottom: 30px;
+    font-weight: 800;
+}
+.right{
+    width: 500px;
+    margin-left: 400px;
+}
+.left{
+    margin-left: 70px;
+}
+.footer_box{
+    display: flex;
+    align-items: center;
+}
+.box_box1{
+    width: 470px;
+    margin-left: 100px;
+    color: #fff;
+}
+.main_box{
+    display: flex;
+    align-items: center;
+    margin-top: 200px;
+}
+.right_pp{
+    margin-top: 70px;
+}
+.card_p{
+    margin-top: 76px;
+}
+
+.card_h1{
+    font-size: 64px;
+    font-weight: 700;
+}

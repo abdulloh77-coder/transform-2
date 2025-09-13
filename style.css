@@ -1,0 +1,185 @@
+/*header boshlanishi*/
+.header{
+    background-color: #F3D7B7;
+    height: 800px;
+    width: 1530px;
+    position: relative;
+    top: -10px;
+    right: 10px;
+    display: flex;
+}
+.header_img{
+    margin-top: 20px;
+    position: relative;
+    bottom: 10px;
+    margin-left: 36px;
+}
+.header_box{
+    display: flex;
+    align-items: center;
+
+    height: 100px;
+}
+.boxx{
+    position: relative;
+    left: 650px; 
+    bottom: 1270px;
+}
+.header_a1{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+}
+.box_nav{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin-left: 825px;
+}
+.header_img1{
+    width: 190px;
+    height: 190px;
+    position: absolute;
+    left: 90px;
+}
+.box{
+    height: 200px;
+   width: 870px;
+   position: relative;
+   bottom: 1300px;
+   left: 650px;
+}
+/*header tugashi*/
+/*main boshlanishi*/
+.main_h1{
+    font-size: 64px;
+}
+.main_img22{
+    margin-left: 160px;
+    margin-top: 50px;
+}
+.main_box1{
+    width: 470px;
+    height: 550px;
+    position: relative;
+    bottom: 650px;
+    margin-left: 36px;
+}
+.suuuu{
+    font-size: 24px;
+    width: 300px;
+    height: 100px;
+    font-weight: 3003;
+    border-radius: 20px;
+}
+.main_button{
+    width: 193px;
+    height: 51px;
+    border-radius: 100px;
+    border: none;
+    background-color: #008653;
+    color: #fff;
+    font-weight: 500;
+    margin-top: 70PX;
+}
+.main_h2{
+    position: relative;
+    bottom: 1220px;
+    left: 650px;
+}
+.box_nav1{
+   width: 300px;
+}
+.card_box{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.card_img:hover{
+    transform: scale(1.2);
+    transition: 0.4s linear;
+}
+.card_img{
+    transition: 0.4s linear;
+}
+.card_box2{
+      margin-top: 100px;
+      margin-left: 200px;
+}
+.main_card{
+    height: 1500px;
+    position: relative;
+    bottom: 1170px;
+    
+}
+.card_img2{
+    transition: 0.4s linear;
+}
+.card_img2:hover{
+      transform: scale(1.2);
+    transition: 0.4s linear;
+}
+.card_img2{
+    margin-left: 100px;
+
+}
+.card_img4{
+     margin-left: 100px;
+     width: 480px;
+}
+.card_img4:hover{
+       transform: scale(1.2);
+    transition: 0.4s linear;
+}
+.card_img4{
+     transition: 0.4s linear;
+}
+.main_cards{
+    width: 1200px;
+    display: flex;
+    margin-left: 150px;
+}
+/*main tugashi*/
+.footer_img{
+    position: relative;
+    z-index: 1;
+    top: 35px;
+    left: 48px;
+    
+}
+.footer{
+    width: 1670px;
+    height: 100px;
+    background-color: #F3D7B7;
+    position: relative;
+    right: 10px;
+    bottom: 960px;
+    z-index: 8;
+}
+.box_nav2{
+     display: flex;
+    align-items: center;
+    gap: 40px;
+    margin-top: 14px;
+    margin-left: 700px;
+}
+.header_a2{
+     text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+}
+.nav4{
+    margin-left: 1240px;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    position: relative;
+    bottom: 19px;
+
+}
+.rotator{
+    position: relative;
+    bottom: 1280px;
+    left: 622px;
+}
